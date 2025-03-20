@@ -14,3 +14,6 @@ This is to learn how to program and Github.
 # New note
 All of this is very difficult XD
 
+# Another new
+I have no idea wtf I'm doing
+
