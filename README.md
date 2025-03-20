@@ -9,3 +9,8 @@ This is to learn how to program and Github.
 
 #Inspirational Quote
 > "No he dormido nada, no me pregunten demasiado" - Mariano Rajoy
+
+
+# New note
+All of this is very difficult XD
+
